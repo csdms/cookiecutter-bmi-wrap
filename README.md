@@ -1,3 +1,8 @@
+This repository has been archived.
+Its contents have been wrapped
+into the [babelizer](https://github.com/csdms/babelizer).
+
+```
 # Cookiecutter csdms-stack
 
 [Cookiecutter](https://github.com/audreyr/cookiecutter) template for a wrapping bmi libraries
@@ -26,3 +31,4 @@ Then:
 * Run the Travis CLI command
 
       $ travis encrypt --add "ANACONDA_TOKEN=<token>"
+```
